@@ -10,6 +10,34 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    @IBOutlet weak var Result: UILabel!
+  
+    
+    
+    @IBAction func OneButton(_ sender: Any) {
+    }
+    
+    
+ 
+    @IBAction func TwoButton(_ sender: Any) {
+    }
+    
+    
+    
+    
+    @IBAction func PlusButton(_ sender: Any) {
+    }
+    
+    
+    
+    
+    @IBAction func EqualsButton(_ sender: Any) {
+    }
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
